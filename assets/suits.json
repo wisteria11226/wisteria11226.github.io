@@ -1,0 +1,1 @@
+{"frames":{"suit_spade":{"frame":{"x":0,"y":0,"w":150,"h":150}},"suit_heart":{"frame":{"x":150,"y":0,"w":150,"h":150}},"suit_diamond":{"frame":{"x":300,"y":0,"w":150,"h":150}},"suit_club":{"frame":{"x":450,"y":0,"w":150,"h":150}}},"meta":{"image":"./suits.png","format":"RGBA8888","size":{"w":600,"h":150},"scale":1}}
